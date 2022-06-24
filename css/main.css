@@ -81,7 +81,7 @@ img {
   height: auto;
 }
 
-@media screen and (max-width: 575.98px) {
+@media screen and (max-width: 767.98px) {
   .header {
     position: fixed;
     background-color: #fff;
@@ -185,7 +185,7 @@ img {
   color: #b61984;
 }
 
-@media screen and (max-width: 575.98px) {
+@media screen and (max-width: 767.98px) {
   .find {
     margin-top: 1300px;
   }
@@ -309,7 +309,7 @@ img {
   border: 1px solid #fff;
 }
 
-@media screen and (max-width: 575.98px) {
+@media screen and (max-width: 767.98px) {
   .footer {
     background-image: url(/img/footer_background.jpg);
     background-size: cover;
@@ -410,7 +410,7 @@ img {
   background-color: #dcd1f3;
 }
 
-@media screen and (max-width: 575.98px) {
+@media screen and (max-width: 767.98px) {
   .content-img {
     position: relative;
     margin-top: 850px;

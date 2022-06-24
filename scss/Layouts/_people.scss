@@ -73,7 +73,7 @@
 .img2 {
   background-color: $color-purple;
 }
-@include responsive("small-down") {
+@include responsive("medium-down") {
   .content-img {
     position: relative;
     margin-top: 850px;

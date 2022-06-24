@@ -83,7 +83,7 @@
     }
   }
 }
-@include responsive("small-down") {
+@include responsive("medium-down") {
   .footer {
     background-image: url(/img/footer_background.jpg);
     background-size: cover;

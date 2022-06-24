@@ -75,7 +75,7 @@
     height: auto;
   }
 }
-@include responsive("small-down") {
+@include responsive("medium-down") {
   .header {
     position: fixed;
     background-color: $color-white-3;
